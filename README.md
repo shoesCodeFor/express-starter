@@ -66,7 +66,7 @@ Cloning a repository is just copying the source code to you local machine from t
 
 If you don't care where it lives run the following in the terminal (otherwise follow the Terminal 101 steps).  It will copy the repo into a folder with the same name locally.
 ```bash
-git clone git....
+git clone git@github.com:shoesCodeFor/express-starter.git
 ```
 
 ### Terminal 101
